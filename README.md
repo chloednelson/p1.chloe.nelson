@@ -1,6 +1,10 @@
 # p1.chloe.nelson
 CS 3366 Human Computer Interaction Project 1
 
+## Links:
+### Repository: 
+github.com/chloednelson/p1.chloe.nelson
+### Presentation Page:
 
 ## C Questions:
 ### Interface Photos:
