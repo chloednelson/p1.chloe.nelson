@@ -48,3 +48,7 @@ Firstly, The elevator screen was all the way at the top of the elevator and made
 ## A Questions:
 ### Touch Screen Design? And other helpful features:
 Yes I want my elevator design to be a touch screen however on this screen I still want there to be braille so a blind user can still use the elevator. I also want the screen size to be lower on my elevator to allow handicapped user to be able to use the elevator. The design also allows for when the call or alarm button is pressed to cancel moving to any floors.
+
+## Gif of Processing:
+![p1 chloe nelson](https://user-images.githubusercontent.com/114605562/192932262-dd472921-8c77-4dec-a2ff-196368c69f5a.gif)
+
