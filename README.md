@@ -3,8 +3,10 @@ CS 3366 Human Computer Interaction Project 1
 
 ## Links:
 ### Repository: 
-github.com/chloednelson/p1.chloe.nelson
+[github.com/chloednelson/p1.chloe.nelson](url)
+
 ### Presentation Page:
+[https://github.com/chloednelson/p1.chloe.nelson/blob/main/demo.html](url)
 
 ## C Questions:
 ### Interface Photos:
@@ -23,7 +25,6 @@ The current issue with the current design is there isn't any flow of buttons in 
 
 ### Explain Why it is Good or Bad:
 This elevator is both good and bad. It is bad in that it is a very old outdated elevator and does not follow the design rules as many elevators do today. The other reason that is bad is the design flaws of the buttons not lining up. It is a good elevator in that it has braille for those who do not know what the buttons are can read it and press the coresponding button as well as lower set for those who are handicapped. 
-
 
 ## B Questions:
 
