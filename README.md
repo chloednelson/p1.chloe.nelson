@@ -46,7 +46,5 @@ I think some common mistakes that you can make with this current design is makin
 Firstly, The elevator screen was all the way at the top of the elevator and made it hard to read to see what floor you were on or were going to. I have suggested lowering the elevator screen and it also now reads to you what action you are taking. For example "Going to floor One!". The Second Change is going to square touch buttons instead of circles since some are broken and also matches the rectangle layout of the braille numbers or words next to the button. The third change is aligning the number buttons to be stacked on top of each other. The fourth change is aligning the next buttons in a square below the numbers and adding a close button and chaning the pull stop to a call button.
 
 ## A Questions:
-
-Project:
-Interface:
-
+### Touch Screen Design? And other helpful features:
+Yes I want my elevator design to be a touch screen however on this screen I still want there to be braille so a blind user can still use the elevator. I also want the screen size to be lower on my elevator to allow handicapped user to be able to use the elevator. The design also allows for when the call or alarm button is pressed to cancel moving to any floors.
