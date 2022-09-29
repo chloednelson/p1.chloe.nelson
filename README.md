@@ -2,13 +2,18 @@
 CS 3366 Human Computer Interaction Project 1
 
 
-C Questions:
+##C Questions:
+###Interface Photos:
+
+###Gif of Interface:
+
+###Issues of Current Design:
 
 
-B Questions:
+##B Questions:
 
 
-A Questions:
+##A Questions:
 
 Project:
 Interface:
